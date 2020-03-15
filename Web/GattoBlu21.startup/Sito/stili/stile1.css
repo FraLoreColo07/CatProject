@@ -1,0 +1,89 @@
+body{
+    background-color: darkgray;
+     
+}
+h1{
+    font-family: "Determination Mono";
+    color: white;
+}
+p{
+    font-family: "Determination Mono";
+    color: white;
+    font-size: 30px;
+}
+.header{
+    width:  auto;
+    height: auto;
+    background-color: black;
+    border-style: double;
+    border-width: 10px;
+    border-color: blue
+}
+
+.mainDiv{
+    text-align: center;
+    background-image: url(imm/972071.png);
+    background-repeat: no-repeat;
+    background-size: contain; 
+    border-style: double;
+    border-width: 10px;
+    width:  410px;
+    height: 325px;
+    margin: auto;
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 700px;
+}
+.divVideo{
+    position: absolute;
+    border-style: double;
+    border-width: 10px;
+    margin-top: 10px;
+    margin-left: 100px;
+    width: auto;
+    height: auto;
+}
+#title {
+     text-align: center;
+}
+#navBarUl {
+    list-style-type: none;
+    margin: 0;
+    padding: 4px 6px;
+    overflow: hidden;
+    background-color: lightblue;
+    border-style: double;
+    border-width: 10px;
+    border-radius: 50px;
+    width: auto;
+    height: auto;
+    margin-top: 60px;
+  }
+  
+  #navBarLi {
+    float: left;
+    border-right:1px solid #bbb;
+    font-size: 30px;
+    font-family: "Determination Mono";
+    padding: 6px 8px;
+  }
+  
+  #navBarLi2 {
+    float: right;
+    font-size: 30px;
+    font-family: "Determination Mono";
+    padding: 6px 8px;
+  }
+  
+  li a{
+      text-decoration: none;
+      display: block;
+      color: black;
+  }
+  
+  li a:hover:not(.active) {
+    background-color:blue
+  
+  .active {
+    background-color: blue;
+  }
