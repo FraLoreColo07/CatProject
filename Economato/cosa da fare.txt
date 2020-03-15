@@ -1,0 +1,8 @@
+-Lista dispositivi posseduti
+-Lista dispositivi necessari
+-Lista costi dispositivi
+-Lista software necessari
+-Lista meeting 
+	1)Argomenti di discussione
+	2)Cibo
+-Creazione documenti informativi
