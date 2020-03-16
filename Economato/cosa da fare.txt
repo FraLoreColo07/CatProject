@@ -6,3 +6,4 @@
 	1)Argomenti di discussione
 	2)Cibo
 -Creazione documenti informativi
+-Lista passaggi crazione game
